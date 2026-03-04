@@ -1,10 +1,10 @@
 # Fizz Buzz (Flutter & FlutterFlow)
 
 A cross-platform application built to visualize the classic **Fizz Buzz** algorithm. Originally designed as a LeetCode problem solver, this project utilizes Flutter and FlutterFlow to provide a clean, interactive UI for calculating and displaying the sequence of numbers and their corresponding string replacements.
-
-<img width="25%" height="25%" alt="Screenshot 1" src="[INSERT_IMAGE_1_URL_HERE]" />
-<img width="25%" height="25%" alt="Screenshot 2" src="[INSERT_IMAGE_2_URL_HERE]" />
-
+<p alight="left">
+<img width="25%" alt="Screenshot_20260303-185729" src="https://github.com/user-attachments/assets/06644d62-5a03-46a3-8d51-5f56541fcbc0" />
+<img width="25%" alt="Screenshot_20260303-185701" src="https://github.com/user-attachments/assets/2ee918e8-765e-471e-b331-45dc656cd15d" />
+</p>
 **Try it out here:** [Live Demo](https://itjosue.github.io/fizz_buzz/)
 
 ## Features
